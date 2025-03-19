@@ -7,8 +7,6 @@
 
 > 📦 235.6 kB Used in GitHub's Storage 
  > 
-> 🏆 165 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 1 Public Repository 
@@ -42,20 +40,16 @@ Sunday                   105 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               1 hr 34 mins        █████████████████░░░░░░░░   69.10 % 
-JavaScript               40 mins             ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-task-board               1 hr 35 mins        █████████████████░░░░░░░░   69.58 % 
-taskboard-server         41 mins             ████████░░░░░░░░░░░░░░░░░   30.42 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +67,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KvasirDeer/KvasirDeer/master/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2025 18:45:45 UTC
+ Last Updated on 19/03/2025 18:45:26 UTC
 <!--END_SECTION:waka-->
 <div align="center">
   <a href="https://wakatime.com/badge/user/9c5900a6-7863-42dc-bc47-478d4f2204b8/project/94e8febe-0315-47ec-b0f9-666d8a61decd"><img src="https://wakatime.com/badge/user/9c5900a6-7863-42dc-bc47-478d4f2204b8/project/94e8febe-0315-47ec-b0f9-666d8a61decd.svg" alt="wakatime"></a>
