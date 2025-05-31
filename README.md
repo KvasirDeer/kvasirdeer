@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 235.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 165 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,16 +42,22 @@ Sunday                   105 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               5 hrs 58 mins       █████████████████████░░░░   82.59 % 
+JSON                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 17 mins       ██████████████████░░░░░░░   73.24 % 
+Cursor                   1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ModMail                  7 hrs 13 mins       █████████████████████████   99.99 % 
+musicmatch-next          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -67,7 +75,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KvasirDeer/KvasirDeer/master/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2025 18:46:43 UTC
+ Last Updated on 31/05/2025 18:44:07 UTC
 <!--END_SECTION:waka-->
 <div align="center">
   <a href="https://wakatime.com/badge/user/9c5900a6-7863-42dc-bc47-478d4f2204b8/project/94e8febe-0315-47ec-b0f9-666d8a61decd"><img src="https://wakatime.com/badge/user/9c5900a6-7863-42dc-bc47-478d4f2204b8/project/94e8febe-0315-47ec-b0f9-666d8a61decd.svg" alt="wakatime"></a>
