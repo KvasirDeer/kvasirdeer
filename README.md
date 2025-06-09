@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 235.7 kB Used in GitHub's Storage 
- > 
-> 🏆 165 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,21 +40,20 @@ Sunday                   105 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               3 hrs 57 mins       █████████████████████░░░░   85.94 % 
-Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+TypeScript               35 mins             ████████████░░░░░░░░░░░░░   47.71 % 
+Markdown                 26 mins             █████████░░░░░░░░░░░░░░░░   35.82 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ModMail                  3 hrs 21 mins       ██████████████████░░░░░░░   73.13 % 
-TranslationBot           1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+TranslationBot           1 hr 14 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,7 +71,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KvasirDeer/KvasirDeer/master/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2025 18:45:24 UTC
+ Last Updated on 09/06/2025 18:46:49 UTC
 <!--END_SECTION:waka-->
 <div align="center">
   <a href="https://wakatime.com/badge/user/9c5900a6-7863-42dc-bc47-478d4f2204b8/project/94e8febe-0315-47ec-b0f9-666d8a61decd"><img src="https://wakatime.com/badge/user/9c5900a6-7863-42dc-bc47-478d4f2204b8/project/94e8febe-0315-47ec-b0f9-666d8a61decd.svg" alt="wakatime"></a>
