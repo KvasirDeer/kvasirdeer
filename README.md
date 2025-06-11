@@ -7,6 +7,8 @@
 
 > 📦 235.7 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 1 Public Repository 
@@ -40,20 +42,16 @@ Sunday                   105 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               35 mins             ███████████░░░░░░░░░░░░░░   45.98 % 
-Markdown                 26 mins             █████████░░░░░░░░░░░░░░░░   34.52 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TranslationBot           1 hr 17 mins        █████████████████████████   100.00 % 
+TranslationBot           2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,7 +69,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KvasirDeer/KvasirDeer/master/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2025 18:48:10 UTC
+ Last Updated on 11/06/2025 18:48:37 UTC
 <!--END_SECTION:waka-->
 <div align="center">
   <a href="https://wakatime.com/badge/user/9c5900a6-7863-42dc-bc47-478d4f2204b8/project/94e8febe-0315-47ec-b0f9-666d8a61decd"><img src="https://wakatime.com/badge/user/9c5900a6-7863-42dc-bc47-478d4f2204b8/project/94e8febe-0315-47ec-b0f9-666d8a61decd.svg" alt="wakatime"></a>
