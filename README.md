@@ -40,16 +40,17 @@ Sunday                   105 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+C#                       14 mins             █████████████████████░░░░   83.95 % 
+Other                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TranslationBot           2 mins              █████████████████████████   100.00 % 
+TranslationBot           17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -67,7 +68,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KvasirDeer/KvasirDeer/master/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2025 18:44:45 UTC
+ Last Updated on 15/06/2025 18:44:24 UTC
 <!--END_SECTION:waka-->
 <div align="center">
   <a href="https://wakatime.com/badge/user/9c5900a6-7863-42dc-bc47-478d4f2204b8/project/94e8febe-0315-47ec-b0f9-666d8a61decd"><img src="https://wakatime.com/badge/user/9c5900a6-7863-42dc-bc47-478d4f2204b8/project/94e8febe-0315-47ec-b0f9-666d8a61decd.svg" alt="wakatime"></a>
