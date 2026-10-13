@@ -7,9 +7,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 835.8 kB Used in GitHub's Storage 
+> 📦 836.8 kB Used in GitHub's Storage 
  > 
-> 🏆 374 Contributions in the Year 2026
+> 🏆 377 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,21 +20,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-🌆 Daytime                651 commits         ████████████░░░░░░░░░░░░░   46.63 % 
-🌃 Evening                417 commits         ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-🌙 Night                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+🌞 Morning                177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+🌆 Daytime                654 commits         ████████████░░░░░░░░░░░░░   46.71 % 
+🌃 Evening                418 commits         ███████░░░░░░░░░░░░░░░░░░   29.86 % 
+🌙 Night                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Tuesday                  147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Wednesday                242 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Thursday                 254 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Friday                   300 commits         █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Saturday                 144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Sunday                   140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Monday                   169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Tuesday                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Wednesday                242 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Thursday                 254 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Friday                   300 commits         █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Saturday                 144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Sunday                   140 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
@@ -62,12 +62,12 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
 JavaScript               7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+TypeScript               6 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 ```
 
 
@@ -77,7 +77,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KvasirDeer/KvasirDeer/master/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 00:53:30 UTC
+ Last Updated on 13/10/2026 22:58:51 UTC
 <!--END_SECTION:waka-->
 <div align="center">
   <a href="https://wakatime.com/badge/user/9c5900a6-7863-42dc-bc47-478d4f2204b8/project/94e8febe-0315-47ec-b0f9-666d8a61decd"><img src="https://wakatime.com/badge/user/9c5900a6-7863-42dc-bc47-478d4f2204b8/project/94e8febe-0315-47ec-b0f9-666d8a61decd.svg" alt="wakatime"></a>
